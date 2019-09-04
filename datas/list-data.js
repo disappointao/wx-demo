@@ -142,7 +142,7 @@ let list_data = [
     detail_love_image1: '/images/icon/chat.png',
     detail_love_image2: '/images/icon/view.png',
     love_count: 1873,
-    attention_count: 388,
+    attention_count: 389,
     music: {
       dataUrl: 'http://up.mcyt.net/down/46110.mp3', // 音乐链接
       title: '曲婉婷 - 我的歌声里-(电视剧《在线爱》主题曲)',   // 音乐标题
