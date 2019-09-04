@@ -2,7 +2,9 @@
   "pages": [
     "pages/list/list",
     "pages/index/index",
-    "pages/detail/detail"
+    "pages/detail/detail",
+    "re",
+    "README.md"
   ],
   "window": {
     "backgroundTextStyle": "light",
