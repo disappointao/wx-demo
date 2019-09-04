@@ -91,15 +91,16 @@ let list_data = [
   },
   {
     date: '2018/3/17 下午3:30:35',
-    title: '贾静雯作品展',
+    title: '雷霆沙雕',
     detail_img: '/images/detail/list/j3.jpg',
-    detail_content: '2001年，贾静雯将工作重心转向内地，并主演了传奇剧《大汉天子》。2002年，她凭借武侠剧《倚天屠龙记》在内地赢得更高关注度[2]  。2003年，贾静雯获得FHM全球百大性感美女亚洲区冠军。2006年，他主演了现代剧《悲伤时唱首歌》。此后几年，贾静雯相继出演了传奇剧《太平公主秘史》、剧情片《不能说的夏天》等影视作品',
+    detail_brief: '蝙蝠侠：儿子，你知道正义联盟的三大巨头是谁吗？ 达米安：是神奇女侠... 蝙蝠侠：对，正是神奇女侠、我和大超。 达米安：不，父亲，不再是了。傻赞和海王取代了您和超人叔叔。',
+    detail_content: '因儿时与母亲失散，少年比利（亚瑟·安其 Asher Angel 饰）辗转多个家庭，却执着地要回到妈妈身边。当他再度栖身一个由养子养女的大家庭时，却阴差阳错来到某个未知的领域，并且成为古老巫师的继承人。当他喊出“沙赞”时，便会瞬间变成拥有强壮成年人身体的超级英雄雷霆沙赞（扎克瑞·莱维 Zachary Levi 饰）。比利兴奋不已，和新家的兄弟——患有腿部残疾的弗雷迪（杰克·迪伦·格雷泽 Jack Dylan Grazer 饰）共同分享这份快乐，两人更将展现各种超能力的视频上传网络，流布四方。结果，心怀叵测的赛迪斯·希瓦纳博士（马克·斯特朗 Mark Strong 饰）找上门来。\n&emsp;&emsp希瓦纳童年时曾与沙赞身份失之交臂，一直不受父亲兄长待见的他将灵魂出卖给七宗罪魔鬼，他更企图摧毁那个让他求之不得又恨之入骨的雷霆沙赞……',
     detail_love_image1: '/images/icon/chat.png',
     detail_love_image2: '/images/icon/view.png',
-    love_count: 88,
-    attention_count: 66,
+    love_count: 455,
+    attention_count: 672,
     headImgSrc: '/images/detail/list/j3.jpg',
-    author: '新华社',
+    author: 'Shazam',
     avatar: '/images/avatar/2.png',
     music: {
       dataUrl: 'http://up.mcyt.net/down/46102.mp3', // 音乐链接
@@ -109,19 +110,18 @@ let list_data = [
     postId: 4
   },
   {
-
-    date: 'sep 19 2016',
-    title: '娱乐新闻',
+    date: '8 19 2019',
+    title: '最快的男人',
     detail_img: '/images/detail/list/j4.jpg',
     avatar: '/images/avatar/3.png',
-    detail_content: '2014年，贾静雯与小自己九岁的台湾演员修杰楷相恋[41]  。2015年5月5日，贾静雯的男友修杰楷在微博宣布了贾静雯已身怀有孕的消息，并发出了他与贾静雯和梧桐妹的两张合照，随后，贾静雯转发了此条微博并希望得到大家的祝福[42]  ；同年8月7日，贾静雯以剖宫产方式生下了与修杰楷的第一个女儿“咘咘”，而此前两人已正式注册结婚[43]  。',
+    detail_brief: '妈呀，男主帅的掉裤子，我说这么眼熟！原来是Glee的483小鲜肉！！妈呀帅哭了！不过对CW已经不抱什么希望了，浓缩到10集的话应该会好看很多！毕竟这种东西一部电影就讲完了。。。。看完首集，竟然觉得还挺好看的呢！哈哈哈哈！',
+    detail_content: '11岁时，艾伦（格兰特·古斯汀 Grant Gustin 饰）的母亲离奇死亡，而他的父亲则被当成了凶手。之后，警探乔（杰西·马丁 Jesse L. Martin 饰）收留了孤苦伶仃的艾伦，在乔的耳濡目染之下，成年后的艾伦成为了一名CSI鉴证分析员，在此过程中，他一直没有放弃过对于母亲真正死因的调查。\n&emsp;&emsp艾伦十分迷恋科学家哈里森（汤姆·加瓦那 Tom Cavanagh 饰）所研究的粒子加速器，然而，一场意外让加速器发生了爆炸，艾伦被击中陷入了昏迷。九个月后，终于苏醒的艾伦惊讶的发现自己体内产生了神奇的变化，因此而获得了特殊能力。随着时间的推移，艾伦开始明白，这个世界上，还有很多和自己一样拥有超能力的人存在，而保护市民的安全成为了他新的责任和任务',
     headImgSrc: '/images/detail/list/j4.jpg',
-    author: '李白3',
+    author: '小闪',
     detail_love_image1: '/images/icon/chat.png',
     detail_love_image2: '/images/icon/view.png',
-    love_count: 88,
-    attention_count: 66,
-    detail: '女神。。。',
+    love_count: 788,
+    attention_count: 663,
     music: {
       dataUrl: 'http://up.mcyt.net/down/46110.mp3', // 音乐链接
       title: '曲婉婷 - 我的歌声里-(电视剧《在线爱》主题曲)',   // 音乐标题
@@ -131,24 +131,24 @@ let list_data = [
   },
   {
 
-    date: 'sep 19 2016',
-    title: '社会活动',
-    detail_img: '/images/detail/list/j6.jpg',
-    avatar: '/images/avatar/4.png',
-    detail_content: '2012年，贾静雯担任公益大使，发起为弱势儿童和青少年课后照护计划，并为此次活动献唱了个人单曲《许一个愿望》。2014年，贾静雯参加了最终梦想年度时尚魅力女性颁奖盛典，并在典礼上获得了亲情天使奖[50] ',
-    headImgSrc: '/images/detail/list/j6.jpg',
-    author: '新华社',
+    date: '7 19 2019',
+    title: '钢铁的意志',
+    detail_img: '/images/detail/list/j4.jpg',
+    avatar: '/images/avatar/3.png',
+    detail_brief: '妈呀，男主帅的掉裤子，我说这么眼熟！原来是Glee的483小鲜肉！！妈呀帅哭了！不过对CW已经不抱什么希望了，浓缩到10集的话应该会好看很多！毕竟这种东西一部电影就讲完了。。。。看完首集，竟然觉得还挺好看的呢！哈哈哈哈！',
+    detail_content: '本名维克多·“维克”·史东（Victor“Vic”Stone），原本是运动员，为高中美式足球队的明星外接手，拥有相当优秀的体能因此维克希望大学时能够继续玩球，但因和父亲两人关系较疏远而一直没有机会。在其父缺席几次维克的比赛后，维克终于前往父亲的STAR实验室表达不满，父亲赛拉斯（Silas）告诉他的儿子地球正受到来自各地的超人类威胁著，而研究这些相关外星科技的实验比维克的足球还要重要，维克多气馁地正打算离开时，STAR实验室中的一个管线意外地爆开，使他和其他数名科学家受到了重伤甚至死亡。赛拉斯并不打算要让儿子受到和妻子相同的悲剧，因此在T.O. Morrow和Sarah Charles两位科学家的协助下，维克在美国政府收集各种外星科技的实验室-红屋中成功保住了性命，在抢救过程中因为基于天启星科技制作的机器的影响，维克吸收了各种红屋的高科技物品，最后成为了半人半机械的生化人。\n&emsp;&emsp因达克赛德（Darkseid）入侵的缘故，使得后来组成正义联盟的初期成员们选择合作御敌，拥有高科技身躯的维克因此和超人等人作战，并在知道父亲的用心后原谅了他。后来“钢骨”成为了备受众人爱戴的英雄。',
+    headImgSrc: '/images/detail/list/j4.jpg',
+    author: '钢骨',
     detail_love_image1: '/images/icon/chat.png',
     detail_love_image2: '/images/icon/view.png',
-    love_count: 88,
-    attention_count: 66,
-    detail: '女神2。。。',
+    love_count: 1873,
+    attention_count: 388,
     music: {
-      dataUrl: 'http://up.mcyt.net/down/46100.mp3', // 音乐链接
-      title: 'IF-Ken Arai',   // 音乐标题
+      dataUrl: 'http://up.mcyt.net/down/46110.mp3', // 音乐链接
+      title: '曲婉婷 - 我的歌声里-(电视剧《在线爱》主题曲)',   // 音乐标题
       coverImgUrl: 'http://y.gtimg.cn/music/photo_new/T002R300x300M000003rsKF44GyaSk.jpg?max_age=2592000',
     },
-    postId: 6
+    postId: 5
   },
 ];
 
