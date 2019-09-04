@@ -1,0 +1,22 @@
+<import src='/pages/template/template' />
+<view>
+  <swiper indicator-dots='true' indicator-color='rgba(255,255,255,0.5)' indicator-active-color='rgb(204, 170, 17)' circular='true' autoplay="true">
+    <swiper-item>
+      <image data-detailId="1" src='/images/detail/carousel/01.jpg'></image>
+    </swiper-item>
+    <swiper-item>
+      <image data-detailId="0" src='/images/detail/carousel/02.jpg'></image>
+    </swiper-item>
+    <swiper-item>
+      <image data-detailId="2" src='/images/detail/carousel/03.jpg'></image>
+    </swiper-item>
+    <swiper-item>
+      <image data-detailId="3" src='/images/detail/carousel/04.jpg'></image>
+    </swiper-item>
+  </swiper>
+  <block wx:for='{{datas}}' wx:key='{{index}}'>
+    <view class="tmpContainer" catchtap="handleTap" data-id='{{index}}'>
+      <template is='list-item' data='{{...item}}' />
+    </view>
+  </block>
+</view>

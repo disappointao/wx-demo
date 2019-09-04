@@ -1,0 +1,11 @@
+<!--pages/index/index.wxml-->
+<view class='container'>
+<button wx:if="{{ !hasUserInfo && canIUse }}" open-type="getUserInfo" bindgetuserinfo="getUserInfo"> 获取头像昵称 </button>
+<block wx:else>
+<image src='{{userInfo.avatarUrl}}' class='avatar'></image>
+	<text class='username'>hello {{userInfo.nickName}}</text>
+</block>
+	<view class='goStudy' bindtap='handleClick'>
+		<text>开启小程序之旅</text>
+	</view>
+</view>

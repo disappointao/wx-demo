@@ -1,0 +1,17 @@
+<!--pages/detail/detail.wxml-->
+<view class='detailContainer'>
+  <image src='{{detailData.detail_img}}' class='image'></image>
+  <view class='nav'>
+    <image src='{{detailData.avatar}}'></image>
+    <text class='name'>{{detailData.author}}</text>
+    <text class='time'>{{detailData.date}}</text>
+  </view>
+  <text class="detail_title">{{detailData.title}}</text>
+  <view class='collection_share'>
+    <image src='/images/icon/share.png'></image>
+    <image catchtap="handleCollection" src="{{isCollected?'/images/icon/collection.png': '/images/icon/collection-anti.png'}}"></image>
+    <view class='line'></view>
+  </view>
+  <text class='content' decode="{{true}}">{{detailData.detail_content}}</text>
+  <button>转发</button>
+</view>
